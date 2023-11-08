@@ -1,0 +1,143 @@
+
+body {
+  background-color: #1E1E24;
+  margin: 3rem;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #FFF;
+  display: block;
+  width: 75%;
+
+}
+
+h1 {
+    font-size: 2.375rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    
+}
+
+h2 {
+    font-size: 1.875rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 4rem;
+}
+
+h3 {
+    font-size: 1.3125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.lg-text {
+    font-size: 1.875rem;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal;
+}
+
+p {
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+    vertical-align: middle;
+    
+}
+
+a {
+    text-decoration: none;
+    color: #1E1E24;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+/* PRIMARY BUTTON STYLES */
+.primary-button {
+    display: flex;
+    padding: 0.625rem;
+    justify-content: center;
+    align-items: center;
+    gap: 0.625rem;
+    background: #F3A63B;
+    border-radius: 0.3125rem;
+    border: none;
+    cursor:pointer;
+}
+
+
+.primary-button:hover {
+    background-color: #EDDDCC;
+}
+
+.primary-button:active {
+    background-color: #CB4251;
+
+}
+
+
+.primary-button:focus {
+   outline-color: #F3A63B;
+}
+
+/* SECONDARY BUTTON STYLES */
+
+.secondary-button {
+    border-radius: 0.625rem;
+    border: 3px solid #E39774;
+    background: #FAE0D6;
+    padding: 1rem 1rem;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial;
+    color: #E39774;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.secondary-button:hover {
+    background-color: #E38A6C;
+    border: 3px solid #7B2A10;
+    color: #7B2A10;
+
+}
+
+.secondary-button:active {
+    background-color: #3D1103;
+    border: 3px solid #3D1103;
+    color: #eee;
+}
+
+
+.secondary-button:focus {
+   outline-color: #000;
+}
+
+.alignment {
+    display: flex;
+    vertical-align: middle;
+}
+
+.badge-align {
+    display: flex;
+    align-items: flex-start;
+    align-content: flex-start;
+    gap: 1.25rem;
+    flex-wrap: wrap;
+}
+
+.about-me-align {
+    display: flex;
+    align-items: center;
+    gap: 1.25rem;
+}
