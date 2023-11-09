@@ -2,7 +2,7 @@
 
 **I’m a full stack web developer working out of central Massachusetts.**
 
-**Welcome to my** <img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/GitHub.svg" vertical-align="middle;">
+**Welcome to my** <img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/GitHub_A.svg" vertical-align="middle;" height="30px">
 
 **Don’t forget to visit my,** 
 </br></br>
@@ -14,10 +14,10 @@
 </br></br>
 
 ## ABOUT ME
-<img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/Family.svg" padding-right="16px;"> I’m a dad to a little boy, Grayson. A husband to my wife, Wendy. </br>
-<img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/Pets.svg" padding-right="16px;"> Along with the humans in the house, there are many animals. </br>
-<img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/Games.svg" padding-right="16px;"> I enjoy video games, and especially like fantasy and horror games. </br>
-<img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/Goal.svg" padding-right="16px;"> I am working towards a goal of building a life doing something I love.</br>
+<img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/Family.svg" margin-right="24px;" width="30px"> I’m a dad to a little boy, Grayson. A husband to my wife, Wendy. </br>
+<img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/Pets.svg" padding-right="16px;" width="30px"> Along with the humans in the house, there are many animals. </br>
+<img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/Games.svg" padding-right="16px;" width="30px"> I enjoy video games, and especially like fantasy and horror games. </br>
+<img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/Goal.svg" padding-right="16px;" width="30px"> I am working towards a goal of building a life doing something I love.</br>
 
 </br></br>
 
@@ -27,7 +27,7 @@ PROFICIENT
 <img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/HTML5.svg" padding-right="16px;">
 <img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/CSS3.svg" padding-right="16px;">
 <img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/JS.svg" padding-right="16px;">
-<img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/GITB.svg" padding-right="16px;">
+<img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/Git.svg" padding-right="16px;">
 <img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/React.svg" padding-right="16px;">
 <img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/NodeJS.svg" padding-right="16px;">
 <img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/Express.svg" padding-right="16px;">
@@ -44,8 +44,10 @@ FAMILIAR
 </br></br>
 
 ## EXTRAS
+ON TOP OF ALL THAT
 </br>
 <img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/FIGMA.svg" padding-right="16px;">
 <img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/SLACK.svg" padding-right="16px;">
 <img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/Trello.svg" padding-right="16px;">
 <img src="https://github.com/BWhittaker1415/BenWPortfolio/blob/main/images/Discord.svg" padding-right="16px;">
+
